@@ -1,0 +1,6 @@
+{
+  "name": "เรือนธาตุ",
+  "description": "ห้องฝึกออกแบบโปรแกรม wellness ตามธาตุเจ้าเรือน สำหรับการเรียนรู้และการฝึกวิเคราะห์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
